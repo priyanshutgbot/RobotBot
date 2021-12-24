@@ -595,7 +595,6 @@ __help__ = """
 
 ✗ /mmf - `To draw a text for sticker or pohots`
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ DᴇCᴏᴅᴇ!*
 """
 
 
