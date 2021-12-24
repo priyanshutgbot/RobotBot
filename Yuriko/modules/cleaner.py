@@ -231,7 +231,6 @@ __help__ = """
 
 ✗ /ungignoreblue - `<word> remove said command from global cleaning list`
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ DᴇCᴏᴅᴇ!*
 """
 
 SET_CLEAN_BLUE_TEXT_HANDLER = CommandHandler(
