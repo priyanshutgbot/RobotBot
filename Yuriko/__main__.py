@@ -127,7 +127,7 @@ HELP_STRINGS = """
 
 
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
+DONATE_STRING = """Heya, glad to hear you want to donate!!
  @PiroXPower's 💕"""
 
 IMPORTED = {}
