@@ -112,7 +112,7 @@ buttons = [
             text="sᴜᴘᴘᴏʀᴛ 📡", url="https://t.me/PRIYANSHUBOTS"),
     ],
     [
-        InlineKeyboardButton(text="Sᴜᴍᴍᴏɴ Mᴇ", url="http://t.me/YurikoRobot?startgroup=true"),
+        InlineKeyboardButton(text="Sᴜᴍᴍᴏɴ Mᴇ", url="http://t.me/@Priyanshu_Robot_Bot?startgroup=true"),
     ],
 ]
 
