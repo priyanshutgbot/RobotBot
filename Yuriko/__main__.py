@@ -95,27 +95,25 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(
-            text="Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅꜱ", callback_data="help_back"),
-    ],
-    [
-        InlineKeyboardButton(text=ᴄʜᴀɴɴᴇʟ", url="https://t.me/priyanshubots"),
+                        InlineKeyboardButton(
+                            text=f"Add Flare To Your Group",
+                            url=f"https://telegram.dog/Priyanshu_Robot_Bot?startgroup=true")
+                    ],
+                   [
+                       InlineKeyboardButton(text="[► Help ◄]", callback_data="help_back"),
+                       InlineKeyboardButton(text="❔ ᴄʜɪᴛ-ᴄʜᴀᴛ", url="https://t.me/girls_boy_chatting_group0"),
+                       InlineKeyboardButton(text="[► Inline ◄]", switch_inline_query_current_chat=""),
+                     ],
+                    [                  
+                       InlineKeyboardButton(
+                             text="🚑 Support",
+                             url=f"https://t.me/PRIYANSHUBOTS"),
+                       InlineKeyboardButton(
+                             text="📢 Updates",
+                             url="https://t.me/PRIYANSHUTGBOTs")
+                     ], 
+    ]
 
-    ],
-    [
-        InlineKeyboardButton(
-            text="Iɴʟɪɴᴇ", switch_inline_query_current_chat=""
-        ),
-    ],
-    [
-        InlineKeyboardButton(text="ᴄʜɪᴛ-ᴄʜᴀᴛ", url="https://t.me/girls_boy_chatting_group0"),
-        InlineKeyboardButton(
-            text="sᴜᴘᴘᴏʀᴛ 📡", url="https://t.me/priyanshutgbots"),
-    ],
-    [
-        InlineKeyboardButton(text="Sᴜᴍᴍᴏɴ Mᴇ", url="http://t.me/@Priyanshu_Robot_Bot?startgroup=true"),
-    ],
-]
 
 
 HELP_STRINGS = """
