@@ -100,6 +100,8 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text=ᴄʜᴀɴɴᴇʟ", url="https://t.me/PRIYANSHUTGBOTs"),
+    ],
+    [
         InlineKeyboardButton(
             text="Iɴʟɪɴᴇ", switch_inline_query_current_chat=""
         ),
