@@ -636,7 +636,6 @@ __help__ = """
 
 `Check /markdownhelp to know more!`
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ DᴇCᴏᴅᴇ!*
 """
 
 __mod_name__ = "Fɪʟᴛᴇʀꜱ"
