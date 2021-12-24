@@ -99,7 +99,7 @@ buttons = [
             text="Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅꜱ", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text=ᴄʜᴀɴɴᴇʟ", url="https://t.me/PRIYANSHUTGBOTs"),
+        InlineKeyboardButton(text=ᴄʜᴀɴɴᴇʟ", url="https://t.me/priyanshubots"),
 
     ],
     [
@@ -110,7 +110,7 @@ buttons = [
     [
         InlineKeyboardButton(text="ᴄʜɪᴛ-ᴄʜᴀᴛ", url="https://t.me/girls_boy_chatting_group0"),
         InlineKeyboardButton(
-            text="sᴜᴘᴘᴏʀᴛ 📡", url="https://t.me/PRIYANSHUBOTS"),
+            text="sᴜᴘᴘᴏʀᴛ 📡", url="https://t.me/priyanshutgbots"),
     ],
     [
         InlineKeyboardButton(text="Sᴜᴍᴍᴏɴ Mᴇ", url="http://t.me/@Priyanshu_Robot_Bot?startgroup=true"),
