@@ -101,7 +101,7 @@ buttons = [
                     ],
                    [
                        InlineKeyboardButton(text="[► Help ◄]", callback_data="help_back"),
-                       InlineKeyboardButton(text="❔ ᴄʜɪᴛ-ᴄʜᴀᴛ", url="https://t.me/girls_boy_chatting_group0"),
+                       InlineKeyboardButton(text="❔ ᴄʜɪᴛ-ᴄʜᴀᴛ", url="https://t.me/azaadparindeyfab5t"),
                        InlineKeyboardButton(text="[► Inline ◄]", switch_inline_query_current_chat=""),
                      ],
                     [                  
