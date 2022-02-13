@@ -1,6 +1,6 @@
 {
-      "name": "Priyanshu Robot",
-      "description": "A Powerful  Telegram group management bot with anime theme.",
+      "name": "XTREAM ROBOT",
+      "description": "A Powerful  Telegram group management bot with anime theme. BY XTREAMBOTS",
       "keywords": [
          "telegram",
          "advance",
@@ -84,7 +84,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "PRIYANSHUBOTS"
+         "value": "XTREAMSUPPORT"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
