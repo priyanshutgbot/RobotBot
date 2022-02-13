@@ -1,4 +1,4 @@
-<h1 align="center"><b> ⚡ Priyanshu Robot ⚡ </b></h1>
+<h1 align="center"><b> ⚡ XTREAM ROBOT ⚡ </b></h1>
 
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
@@ -8,23 +8,23 @@
 
 <p align="center"><a href="https://t.me/YurikoRobot"><img src="(https://telegra.ph/file/e641d3dd2ccdce6a3d934.jpg)" width="400"></a></p>
 
-## Available on Telegram as [@PRIYANSHUROBOT](https://t.me/Priyanshu_Robot_Bot)
+## Available on Telegram as [@XTREAMROBOT](https://t.me/Priyanshu_Robot_Bot)
 
 # ❤️ Support
-<a href="https://t.me/PRIYANSHUTGBOTS"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="t.me/PRIYANSHUBOTS"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/XTREAMSUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="t.me/XTREAMUPDATES"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 ## ✨ Heroku Deploy ✨
 The easiest way to deploy this Bot is via Heroku.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/priyanshutgbot/RobotBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/priyanshutgbot/Xtream-Robot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
 ## CREDIT
 ```
 PRIYANSHU 
-ASTA SILVA 
+BLAZE 
 ```
 
