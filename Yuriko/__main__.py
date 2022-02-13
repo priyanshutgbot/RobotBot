@@ -107,10 +107,10 @@ buttons = [
                     [                  
                        InlineKeyboardButton(
                              text="🚑 Support",
-                             url=f"https://t.me/PRIYANSHUBOTS"),
+                             url=f"https://t.me/XTREAMSUPPORT"),
                        InlineKeyboardButton(
                              text="📢 Updates",
-                             url="https://t.me/PRIYANSHUTGBOTs")
+                             url="https://t.me/XTREAMUPDATES")
                      ], 
     ]
 
@@ -127,7 +127,7 @@ HELP_STRINGS = """
 
 
 DONATE_STRING = """Heya, glad to hear you want to donate!!
- @PiroXPower's 💕"""
+ @Belongs_to_LordKrishna's 💕"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -391,10 +391,10 @@ def yurikorobot_about_callback(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Bᴜɢ'ꜱ", url="https://t.me/PRIYANSHUBOTS"
+                            text="Bᴜɢ'ꜱ", url="https://t.me/XTREAMSUPPORT"
                         ),
                         InlineKeyboardButton(
-                            text="Bᴏᴛ Lɪꜱᴛ", url="https://t.me/PRIYANSHUTGBOTs"
+                            text="Bᴏᴛ Lɪꜱᴛ", url="https://t.me/XTREAMUPDATES"
                         ),
                     ],
                     [InlineKeyboardButton(text="Back", callback_data="Priyanshu_Robot_Bot")],
@@ -480,10 +480,10 @@ def yurikorobot_about_callback(update, context):
             f"\n*SETUP ASSISTANT*"
             f"\n\n✗ `1.) first, add me to your group.`"
             f"\n\n✗ `2.) then promote me as admin and give all permissions except anonymous admin.`"
-            f"\n\n✗ `3.) add` @YurikoPlugin `to your group:`"
+            f"\n\n✗ `3.) add` @PRIYANSHU_MUSICASSISTANT `to your group:`"
             f"\n\n✗ `4.) turn on the video chat first before start to play music.`"
             f"\n\n✗ *Lets Enjoy The Yuriko Music And Join Support Group @DeCodeSupport*"
-            f"\n\n*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ DᴇCᴏᴅᴇ!*",
+            f"\n\n*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: TEAM XTREAM!*",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
